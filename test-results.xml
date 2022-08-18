@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" time="59.212">
+  <testsuite name="app/components/CardGraph/tests/index.test.js" errors="0" failures="0" skipped="0" timestamp="2020-07-21T08:46:54" time="18.337" tests="5">
+    <testcase classname="&lt;CardGraph /&gt;-Expect to not log errors in console" name="&lt;CardGraph /&gt;-Expect to not log errors in console" time="0.08">
+    </testcase>
+    <testcase classname="&lt;CardGraph /&gt;-Expect to have additional unit tests specified" name="&lt;CardGraph /&gt;-Expect to have additional unit tests specified" time="0.001">
+    </testcase>
+    <testcase classname="&lt;CardGraph /&gt;-should render Cards" name="&lt;CardGraph /&gt;-should render Cards" time="0.007">
+    </testcase>
+    <testcase classname="&lt;CardGraph /&gt; › Cards-renders" name="&lt;CardGraph /&gt; › Cards-renders" time="0.001">
+    </testcase>
+    <testcase classname="&lt;CardGraph /&gt;-Should render and match the snapshot" name="&lt;CardGraph /&gt;-Should render and match the snapshot" time="0.042">
+    </testcase>
+  </testsuite>
+</testsuites>

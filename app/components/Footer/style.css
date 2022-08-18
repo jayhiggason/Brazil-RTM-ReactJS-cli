@@ -1,0 +1,10 @@
+.footer{
+
+    bottom: 0;
+    background: black;
+    color: white;
+    font-size: x-small;
+    font-family: 'MarsCentra-Book';
+    position: fixed;
+    z-index: 1200 !important;
+}

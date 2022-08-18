@@ -1,0 +1,14 @@
+{
+  "rtmUrl": "https://brazil-rtm-prod-mw.azurewebsites.net/api",
+  "logicAppUrl": "https://prod-48.eastus2.logic.azure.com:443/workflows/7c044fed3ba146d9b9ba5cc7bdd50024/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=DYOBv45yCK1Zz79sedRJmSL1H7J2LrozSQG-xwDMBQA",
+  "sentryUrl": "",
+  "matamoUrl": "https://brazil-rtm.eastus2.cloudapp.azure.com/matomo/",
+  "siteId": 2,
+  "basePath": "/",
+  "clientId": "3d94aaf6-91cc-4de1-adea-5031981e0ee3",
+  "tenantID": "2fc13e34-f03f-498b-982a-7cb446e25bc6",
+  "objectID": "4d3902d6-7a6f-403d-b7a9-03876e525622",
+  "redirectUrl": "https://brazil-rtm-prod.azurewebsites.net/prod/RTM/PerformanceSummary",
+  "logoutUrl": "https://brazil-rtm.eastus2.cloudapp.azure.com/prod",
+  "jwtSecret": "musigma_1234_key"
+}

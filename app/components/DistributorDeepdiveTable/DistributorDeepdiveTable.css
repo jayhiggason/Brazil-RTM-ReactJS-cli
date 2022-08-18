@@ -1,0 +1,58 @@
+.pagination {
+    margin-left: 0.1vw;
+    float: right;
+    font-size: 0.6vw;
+}
+
+.DistributorTable {
+    min-width: 100% !important;
+    margin: auto;
+    width: 100% !important;
+}
+
+.row {
+    margin: 0;
+    min-width: 100% !important;
+    padding: 0.8vw !important;
+}
+
+.react-bootstrap-table-pagination-total {
+    padding: inherit;
+    font-size: 55%;
+    font-family: 'MarsCentra-Book', serif;
+}
+
+.react-bootstrap-table-pagination {
+    padding-top: 1.2vw;
+    text-align: left;
+}
+
+.dropdown-menu {
+    bottom: 2.35vw;
+    top: unset;
+    min-width: 4vw;
+    padding: 0.5vw;
+    font-family: 'MarsCentra-Book', serif;
+}
+
+.dropdown-toggle {
+    /*background-color: #0000a0!important;*/
+    /*border-color: #fff!important;*/
+    background-color: rgba(0, 0, 0, .06) !important;
+    border-color: rgba(0, 0, 0, .06) !important;
+    color: #000 !important;
+    width: 4vw;
+    height: 5vh;
+    font-size: 1vw;
+}
+
+.dropdown-item:hover {
+    /*background-color: #0000a0!important;*/
+    /*color: #fff;*/
+    background-color: rgba(0, 0, 0, .06) !important;
+    color: #000;
+}
+
+.custom-header-row-class {
+    height: 2vw;
+}

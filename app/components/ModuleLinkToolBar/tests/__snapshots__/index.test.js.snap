@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ModuleLinkToolBar /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiToolbar-root MuiToolbar-regular makeStyles-root-1 MuiToolbar-gutters"
+>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-grid-xs-10 MuiGrid-grid-sm-10 MuiGrid-grid-md-10 MuiGrid-grid-lg-10 MuiGrid-grid-xl-10"
+    >
+      <div
+        class="MuiTabs-root"
+        style="color: rgb(0, 0, 0); padding: 0px;"
+      >
+        <div
+          class="MuiTabs-scrollable"
+          style="width: 99px; height: 99px; position: absolute; top: -9999px; overflow: scroll;"
+        />
+        <div
+          class="MuiTabs-scroller MuiTabs-scrollable"
+          style="margin-bottom: 0px;"
+        >
+          <div
+            class="MuiTabs-flexContainer"
+            role="tablist"
+          />
+          <span
+            class="PrivateTabIndicator-root-11 PrivateTabIndicator-colorPrimary-12 MuiTabs-indicator"
+            style="left: 0px; width: 0px;"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-flex-end MuiGrid-grid-xs-2 MuiGrid-grid-sm-2 MuiGrid-grid-md-2 MuiGrid-grid-lg-2 MuiGrid-grid-xl-2"
+    />
+  </div>
+</div>
+`;

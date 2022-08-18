@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StoreViewTable /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiGrid-root"
+  style="overflow-x: auto;"
+>
+  <div
+    class="makeStyles-syncLoader-3"
+  >
+    <div
+      class="css-0"
+    >
+      <div
+        class="css-r4fc7y"
+      />
+      <div
+        class="css-lpblfa"
+      />
+      <div
+        class="css-1n57vv2"
+      />
+    </div>
+  </div>
+</div>
+`;

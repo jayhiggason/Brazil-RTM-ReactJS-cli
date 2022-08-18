@@ -1,0 +1,30 @@
+.GeoMapSimple {
+    font-family: MarsCentra-Book;
+    /*text-align: center;*/
+}
+
+svg {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.tooltipContainer{
+    background-color: #1e1e1ecc;
+    /*background-color: rgba(30,30,30,0.8);*/
+    /*background-color: #3E3E3E;*/
+    /*opacity: 0.8;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.para{
+    padding:0.2vw;
+    margin: 0;
+}
+
+.rsm-svg {
+    width: 33vw;
+    height: 66vh;
+}

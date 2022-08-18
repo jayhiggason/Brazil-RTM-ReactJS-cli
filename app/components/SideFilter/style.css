@@ -1,0 +1,46 @@
+.MuiExpansionPanelDetails-root {
+    padding: 0 0 0 0;
+}
+
+/*.MuiOutlinedInput-root{*/
+/*    height: 4vh;*/
+/*    width: 100%;*/
+/*}*/
+
+.picky__dropdown {
+    width: 12vw !important;
+    font-family: 'MarsCentra-Book', serif;
+    font-size: 0.8vw; /*    0.8vw;*/
+}
+
+.picky__placeholder {
+    font-family: 'MarsCentra-Book', serif;
+    font-size: 0.8vw; /*    0.8vw;*/
+}
+
+.picky__input {
+    width: 12vw !important;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    border-color: hsl(0, 0%, 80%) !important;
+    border-radius: 0.3vw;
+}
+
+.picky__input:hover {
+    border-color: hsl(0, 0%, 70%);
+}
+
+.picky__input span {
+    font-family: 'MarsCentra-Book', serif;
+    font-size: 0.8vw; /*    0.8vw;*/
+}
+
+/*.MuiOutlinedInput-input{*/
+/*    background-color: #fff;*/
+/*    height: 0px;*/
+/*    width: 30px;*/
+/*    font-size: 14px;*/
+/*    font-family: MarsCentra-Book;*/
+/*}*/
+

@@ -1,0 +1,45 @@
+
+* {
+    font-family: 'MarsCentra-Book', serif;
+}
+
+.arrow_box {
+    position: relative;
+    background: rgba(0, 0, 0, .06) !important;
+    border: 2px solid rgba(0, 0, 0, .06) !important;
+}
+
+.arrow_box:after, .arrow_box:before {
+    right: 100%;
+    top: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+.arrow_box:after {
+    border-width: 10px;
+    margin-top: -10px;
+}
+
+.arrow_box:before {
+    /*border-color: rgba(0, 0, 0, 0);*/
+    /*border-right-color: #000000;*/
+    border-width: 13px;
+    margin-top: -13px;
+}
+
+#chart .apexcharts-tooltip {
+    color: #fff;
+    transform: translateX(10px) translateY(10px);
+    overflow: visible !important;
+    white-space: normal !important;
+}
+
+#chart .apexcharts-tooltip span {
+    padding: 5px 10px;
+    display: inline-block;
+}

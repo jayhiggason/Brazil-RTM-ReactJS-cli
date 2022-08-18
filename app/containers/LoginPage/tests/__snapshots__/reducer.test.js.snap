@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`loginPageReducer returns the correct state for user login 1`] = `
+Object {
+  "Failed": false,
+  "FailedMessage": "",
+  "IsAuth": false,
+  "Loading": true,
+  "TokenObj": Object {},
+  "userCred": "data",
+}
+`;

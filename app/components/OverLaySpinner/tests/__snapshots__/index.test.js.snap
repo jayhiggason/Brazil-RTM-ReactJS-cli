@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<OverLaySpinner /> Should render and match the snapshot 1`] = `
+<div
+  class="_loading_overlay_wrapper _loading_overlay_wrapper--active css-ft4slc"
+  data-testid="wrapper"
+>
+  <div
+    class="_loading_overlay_overlay css-xhz3t2"
+    data-testid="overlay"
+  >
+    <div
+      class="_loading_overlay_content css-42igfv"
+    >
+      <div
+        class="css-1hg3eg3"
+      />
+    </div>
+  </div>
+</div>
+`;

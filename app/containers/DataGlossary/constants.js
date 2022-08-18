@@ -1,0 +1,15 @@
+/*
+ *
+ * DataGlossary constants
+ *
+ */
+
+export const DEFAULT_ACTION = "app/DataGlossary/DEFAULT_ACTION";
+export const DATA_GLOSSARY_DATA_FETCH = "app/DataGlossary/DATA_GLOSSARY_DATA_FETCH";
+export const DATA_GLOSSARY_DATA_FETCH_SUCCESS = "app/DataGlossary/DATA_GLOSSARY_DATA_FETCH_SUCCESS";
+export const DATA_GLOSSARY_DATA_FETCH_FAIL = "app/DataGlossary/DATA_GLOSSARY_DATA_FETCH_FAIL";
+export const DATA_GLOSSARY_CRUD_OPERATION = "app/DataGlossary/DATA_GLOSSARY_CRUD_OPERATION";
+export const DATA_GLOSSARY_CRUD_OPERATION_COMPLETED = "app/DataGlossary/DATA_GLOSSARY_CRUD_OPERATION_COMPLETED";
+
+
+

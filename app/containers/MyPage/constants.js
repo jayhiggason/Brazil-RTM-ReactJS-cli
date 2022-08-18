@@ -1,0 +1,14 @@
+/*
+ *
+ * MyPage constants
+ *
+ */
+
+export const DEFAULT_ACTION = "app/MyPage/DEFAULT_ACTION";
+
+export const FETCH_MY_PAGE_PINNED_VIEW = "app/MyPage/FETCH_MY_PAGE_PINNED_VIEW";
+export const FETCH_MY_PAGE_PINNED_VIEW_SUCCESS = "app/MyPage/FETCH_MY_PAGE_PINNED_VIEW_SUCCESS";
+export const FETCH_MY_PAGE_PINNED_VIEW_FAIL = "app/MyPage/FETCH_MY_PAGE_PINNED_VIEW_FAIL";
+
+export const REMOVE_PINNED_VIEW = "app/MyPage/REMOVE_PINNED_VIEW";
+

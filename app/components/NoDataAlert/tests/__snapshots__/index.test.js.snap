@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NoDataAlert /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiGrid-root makeStyles-Card-4 MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-center MuiGrid-grid-xs-12"
+>
+  <div
+    class="MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded"
+    style="margin: 40px 40px 40px 40px; width: 100%;"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        class="MuiTypography-root makeStyles-heading-3 MuiTypography-body1 MuiTypography-alignCenter"
+      >
+        No results available, Please reload or contact admin
+      </p>
+    </div>
+  </div>
+</div>
+`;

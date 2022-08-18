@@ -1,0 +1,6 @@
+.tableValue {
+    border-collapse: separate;
+    border-spacing:0 3px;
+    border-radius: 10px;
+    min-height: 200px;
+}

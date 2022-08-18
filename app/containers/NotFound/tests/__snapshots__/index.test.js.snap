@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NotFound /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiPaper-root MuiCard-root MuiPaper-elevation5 MuiPaper-rounded"
+  style="margin: 40px 40px 40px 40px;"
+>
+  <div
+    class="MuiGrid-root makeStyles-Card-166 MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-center"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item"
+    >
+      <p
+        class="MuiTypography-root makeStyles-heading-165 MuiTypography-body1 MuiTypography-alignCenter"
+      >
+        Page Not Found
+      </p>
+    </div>
+  </div>
+</div>
+`;

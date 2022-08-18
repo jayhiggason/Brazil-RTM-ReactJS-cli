@@ -1,0 +1,65 @@
+.pagination{
+    margin-left: 2px;
+    float: right;
+}
+
+.tableStyle {
+    width: 80vw;
+    margin: auto;
+}
+
+.row{
+    margin: 0;
+    min-width:80vw;
+}
+/*.dropdown-menu {*/
+/*    bottom: 30px;*/
+/*    top:unset;*/
+/*    min-width: 4rem;*/
+/*    padding: 0.5rem;*/
+/*}*/
+
+
+.dropdown-menu {
+    bottom: 2.35vw;
+    top:unset;
+    min-width: 4vw;
+    padding: 0.5vw;
+    font-family: 'MarsCentra-Book';
+}
+
+
+.dropdown-toggle{
+    /*background-color: #0000a0!important;*/
+    /*border-color: #fff!important;*/
+    background-color: rgba(0, 0, 0, .06)!important;
+    border-color: rgba(0, 0, 0, .06)!important;
+    color:#000!important;
+    width: 4vw;
+    height: 5vh;
+    font-size: 1vw;
+}
+
+.dropdown-item:hover{
+    /*background-color: #0000a0!important;*/
+    /*color: #fff;*/
+    background-color: rgba(0, 0, 0, .06)!important;
+    color: #000;
+}
+
+.react-bootstrap-table-pagination-total{
+    padding: inherit;
+    font-size: 0.8vw;
+    font-family: 'MarsCentra-Book';
+}
+
+.react-bootstrap-table-pagination{
+    padding-top: 1vw;
+    text-align:left;
+    width: 100%;
+}
+
+.react-bs-table-no-data{
+    font-size: 0.9vw;
+    font-family: 'MarsCentra-Book';
+}

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavLinks Should render and match the snapshot 1`] = `
+<div
+  class="MuiGrid-root MuiGrid-container"
+>
+  <header
+    class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary makeStyles-root-1 MuiPaper-elevation4"
+  />
+</div>
+`;

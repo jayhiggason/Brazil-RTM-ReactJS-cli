@@ -1,0 +1,31 @@
+.picky__dropdown {
+    width: 100% !important;
+    font-family: 'MarsCentra-Book', serif;
+    font-size: 0.8vw; /*    0.8vw;*/
+}
+
+.picky__placeholder {
+    font-family: 'MarsCentra-Book', serif;
+    font-size: 0.8vw; /*    0.8vw;*/
+}
+
+.picky__input {
+    width: 100% !important;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    border-color: hsl(0, 0%, 80%) !important;
+    border-radius: 0.3vw;
+}
+
+.picky__input:hover {
+    border-color: hsl(0, 0%, 70%);
+}
+
+.picky__input span {
+    font-family: 'MarsCentra-Book', serif;
+    font-size: 0.8vw; /*    0.8vw;*/
+}
+
+
+
